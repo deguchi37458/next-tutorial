@@ -1,5 +1,9 @@
+import Logo from './logo'
+
 export default function Header() {
   return (
-    <header>HEADER</header>
+    <header>
+      <Logo />
+    </header>
   )
 }
