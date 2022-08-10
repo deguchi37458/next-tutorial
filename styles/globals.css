@@ -1,3 +1,14 @@
+:root {
+  /* color */
+  --white: #fff;
+  --gray-10: #eee;
+  --gray-25: #aaa;
+  --gray-50: #707070;
+  --gray-75: #444;
+  --black: #000;
+  --accent: #0d87e0;
+}
+
 html,
 body {
   padding: 0;
