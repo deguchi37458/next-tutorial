@@ -11,7 +11,7 @@ export default function About() {
   return (
     <>
     <Container>
-      <Meta pageTitle='About' />
+      <Meta pageTitle='About' pageDesc='About Development activities'/>
       <Hero
         title = "About"
         subtitle = "about development activities"
