@@ -1,0 +1,17 @@
+@charset 'utf-8';
+
+// // prerequisites
+@import 'abstracts/_functions.scss';
+@import 'abstracts/_mixins.scss';
+@import 'abstracts/_variables.scss';
+
+// // vendors
+// @import url('~swiper/dist/css/swiper');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap');
+// // categorized rules
+@import 'utils/_clearfix';
+@import 'utils/_display';
+@import 'utils/_sr-only';
+@import 'base/_base';
